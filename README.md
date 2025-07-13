@@ -1,2 +1,1 @@
-# jenkins-cl-demo
-jenkins-cl-demo
+# jenkins-ci-demo
